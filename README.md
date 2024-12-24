@@ -1,1 +1,3 @@
 # embedded-technology
+
+嵌入式的作业，要求是做几个安卓APP的Demo，老实说做出来的这坨玩意可能APP都算不上，大概只是学习一下基本框架

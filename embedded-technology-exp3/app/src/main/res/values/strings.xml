@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">实验3</string>
+    <string name="textView_userName">用户名:</string>
+    <string name="textView_password">密码:</string>
+    <string name="textView_ensurePassword">确认密码:</string>
+    <string name="textView_verifycode">验证码</string>
+    <string name="button_login">登录</string>
+    <string name="button_register">注册</string>
+    <string name="button_forget">找回密码</string>
+    <string name="button_verifycode">获取验证码</string>
+    <string name="button_ok">确定</string>
+</resources>
